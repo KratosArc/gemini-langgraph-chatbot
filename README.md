@@ -160,7 +160,7 @@ gemini-langgraph-chatbot/
 
 ## Roadmap
 
-- [ ] Replace the linear edge with **conditional edges** for real branching between nodes
+- [X] Replace the liner edge with **conditional edges** for real branching between nodes
 - [ ] Add **conversation memory** so the bot remembers earlier turns
 - [ ] Add a **tool-calling node** (for example a calculator)
 - [ ] Add a Streamlit web UI
